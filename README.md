@@ -1,0 +1,21 @@
+Hello there! and welcome on board, this is your captian speaking :D  -ehm ehm ....
+Please fasten your seatbelt and create a file with the name 'config' in the same directory as mmds.ipynb with the following structure:
+
+[MainSection]
+datasetlocation:/home/leboudy/MillionSongSubset/
+numberofsongstoprocess: 2
+k=2
+hashalgorithm=md5
+features:duration<g65SEP>end_of_fade_in<g65SEP>key<g65SEP>loudness<g65SEP>mode<g65SEP>start_of_fade_out<g65SEP>tempo<g65SEP>time_signature
+
+
+
+in the config file please insert:
+ datasetlocation = the correct path to your local copy of the millionsongs dataset
+ numberofsongstoprocess = the number of songs to process, duh :D
+ k = the desired k-shingles to produce
+ hashalgorithm = #hashing algorithm try print(hashlib.algorithms_available) print(hashlib.algorithms_guaranteed) to show all of the available ones
+ features =  the features desired for hashing
+
+
+PLEEEEEEEASE DO NOT FORGET TO ADD THE 'config' FILE TO GIT IGNORE  xD
