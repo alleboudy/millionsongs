@@ -1,0 +1,7 @@
+[MainSection]
+datasetlocation:/home/yuanze/mmd-project/MillionSongSubset/
+codelocation:/home/yuanze/mmd-project/MSongsDB/
+numberofsongstoprocess: 2
+k=2
+hashalgorithm=md5
+features:duration<g65SEP>end_of_fade_in<g65SEP>key<g65SEP>loudness<g65SEP>mode<g65SEP>start_of_fade_out<g65SEP>tempo<g65SEP>time_signature
