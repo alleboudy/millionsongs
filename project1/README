@@ -1,3 +1,7 @@
+---------------------------------------------
+| THE FINAL PROJECT FILE IS dd_matrix.ipynb |
+---------------------------------------------
+
 Please create a file with the name 'config' in the same directory as mmds.ipynb with the following structure:
 
 [MainSection]
