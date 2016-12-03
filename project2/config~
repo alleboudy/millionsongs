@@ -1,6 +1,0 @@
-[MainSection]
-dataset_location:/home/leboudy/mmds-project-dependencies/MillionSongSubset/
-n=30000
-b=10
-ignore=5
-
