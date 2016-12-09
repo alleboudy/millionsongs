@@ -7,7 +7,6 @@ change datasetPath  to your local version of the .txt file of the triplets
 
 
 TASK 1 instructions:
-
 ---------------------------------------------
 | THE FINAL PROJECT FILE IS dd_matrix.ipynb |
 ---------------------------------------------
