@@ -1,5 +1,5 @@
 TASK 2 Instructions:
-
+========================================
 Please check out project2/task2.ipynb
 change datasetPath  to your local version of the .txt file of the triplets 
 
