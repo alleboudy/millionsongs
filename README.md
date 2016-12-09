@@ -1,4 +1,5 @@
-TASK2 Instructions:
+TASK 2 Instructions:
+
 Please check out project2/task2.ipynb
 change datasetPath  to your local version of the .txt file of the triplets 
 
@@ -6,6 +7,7 @@ change datasetPath  to your local version of the .txt file of the triplets
 
 
 TASK 1 instructions:
+
 ---------------------------------------------
 | THE FINAL PROJECT FILE IS dd_matrix.ipynb |
 ---------------------------------------------
