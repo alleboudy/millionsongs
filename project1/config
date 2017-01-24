@@ -7,4 +7,4 @@ hashalgorithm=md5
 features:duration,end_of_fade_in,key,loudness,mode,start_of_fade_out,tempo,time_signature,key_confidence
 number_of_rows_each_band:63
 number_of_bands:3
-tolerance_diff:1.5
+tolerance_diff:2
