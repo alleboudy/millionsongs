@@ -1,3 +1,12 @@
+TASK 4 Instructions:
+========================================
+
+please check the folder project4
+
+TASK 3 Instructions:
+========================================
+please check the folder project3
+
 TASK 2 Instructions:
 ========================================
 Please check out project2/task2.ipynb
